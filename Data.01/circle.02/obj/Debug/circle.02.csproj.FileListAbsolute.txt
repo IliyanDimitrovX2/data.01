@@ -1,0 +1,6 @@
+C:\Users\ilko9409\Desktop\Data.01\circle.02\bin\Debug\circle.02.exe.config
+C:\Users\ilko9409\Desktop\Data.01\circle.02\bin\Debug\circle.02.exe
+C:\Users\ilko9409\Desktop\Data.01\circle.02\bin\Debug\circle.02.pdb
+C:\Users\ilko9409\Desktop\Data.01\circle.02\obj\Debug\circle.02.csprojResolveAssemblyReference.cache
+C:\Users\ilko9409\Desktop\Data.01\circle.02\obj\Debug\circle.02.exe
+C:\Users\ilko9409\Desktop\Data.01\circle.02\obj\Debug\circle.02.pdb

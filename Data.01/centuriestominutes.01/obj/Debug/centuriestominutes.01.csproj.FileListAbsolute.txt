@@ -1,0 +1,6 @@
+C:\Users\ilko9409\Desktop\Data.01\centuriestominutes.01\bin\Debug\centuriestominutes.01.exe.config
+C:\Users\ilko9409\Desktop\Data.01\centuriestominutes.01\bin\Debug\centuriestominutes.01.exe
+C:\Users\ilko9409\Desktop\Data.01\centuriestominutes.01\bin\Debug\centuriestominutes.01.pdb
+C:\Users\ilko9409\Desktop\Data.01\centuriestominutes.01\obj\Debug\centuriestominutes.01.csprojResolveAssemblyReference.cache
+C:\Users\ilko9409\Desktop\Data.01\centuriestominutes.01\obj\Debug\centuriestominutes.01.exe
+C:\Users\ilko9409\Desktop\Data.01\centuriestominutes.01\obj\Debug\centuriestominutes.01.pdb

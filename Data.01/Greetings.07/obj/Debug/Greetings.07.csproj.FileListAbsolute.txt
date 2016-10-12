@@ -1,0 +1,6 @@
+C:\Users\ilko9409\Desktop\Data.01\Greetings.07\bin\Debug\Greetings.07.exe.config
+C:\Users\ilko9409\Desktop\Data.01\Greetings.07\bin\Debug\Greetings.07.exe
+C:\Users\ilko9409\Desktop\Data.01\Greetings.07\bin\Debug\Greetings.07.pdb
+C:\Users\ilko9409\Desktop\Data.01\Greetings.07\obj\Debug\Greetings.07.csprojResolveAssemblyReference.cache
+C:\Users\ilko9409\Desktop\Data.01\Greetings.07\obj\Debug\Greetings.07.exe
+C:\Users\ilko9409\Desktop\Data.01\Greetings.07\obj\Debug\Greetings.07.pdb

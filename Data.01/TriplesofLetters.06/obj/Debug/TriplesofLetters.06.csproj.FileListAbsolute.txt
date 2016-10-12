@@ -1,0 +1,6 @@
+C:\Users\ilko9409\Desktop\Data.01\TriplesofLetters.06\bin\Debug\TriplesofLetters.06.exe.config
+C:\Users\ilko9409\Desktop\Data.01\TriplesofLetters.06\bin\Debug\TriplesofLetters.06.exe
+C:\Users\ilko9409\Desktop\Data.01\TriplesofLetters.06\bin\Debug\TriplesofLetters.06.pdb
+C:\Users\ilko9409\Desktop\Data.01\TriplesofLetters.06\obj\Debug\TriplesofLetters.06.csprojResolveAssemblyReference.cache
+C:\Users\ilko9409\Desktop\Data.01\TriplesofLetters.06\obj\Debug\TriplesofLetters.06.exe
+C:\Users\ilko9409\Desktop\Data.01\TriplesofLetters.06\obj\Debug\TriplesofLetters.06.pdb

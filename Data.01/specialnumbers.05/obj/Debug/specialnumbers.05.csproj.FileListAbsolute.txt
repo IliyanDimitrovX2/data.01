@@ -1,0 +1,6 @@
+C:\Users\ilko9409\Desktop\Data.01\specialnumbers.05\bin\Debug\specialnumbers.05.exe.config
+C:\Users\ilko9409\Desktop\Data.01\specialnumbers.05\bin\Debug\specialnumbers.05.exe
+C:\Users\ilko9409\Desktop\Data.01\specialnumbers.05\bin\Debug\specialnumbers.05.pdb
+C:\Users\ilko9409\Desktop\Data.01\specialnumbers.05\obj\Debug\specialnumbers.05.csprojResolveAssemblyReference.cache
+C:\Users\ilko9409\Desktop\Data.01\specialnumbers.05\obj\Debug\specialnumbers.05.exe
+C:\Users\ilko9409\Desktop\Data.01\specialnumbers.05\obj\Debug\specialnumbers.05.pdb
